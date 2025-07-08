@@ -117,4 +117,4 @@ You will visualize daily and monthly AWS spending trends with:
 ---
 
 ## 🧠 Author
-Built with 💻 by [Your Name] – Cost visibility = Cloud control.
+Built with 💻 by Cam Battle – Cost visibility = Cloud control.
